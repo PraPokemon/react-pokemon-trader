@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-     <h1>Pokemon Traderr</h1>
+     <h1>Pokemon Trader</h1>
     </div>
   );
 }
